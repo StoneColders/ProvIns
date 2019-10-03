@@ -11,3 +11,10 @@ We have created a feature similar to Fing which lists out the IP address and MAC
 
 3. Creating an algorithm to uniquely identify each device  
 We have combined a devices MAC address alongwith a randomly generated value in backend to create a unique ID.
+
+# Team
+Sarvad - IOS  
+Uddhav - Backend  
+Diptanshu - ML  
+Amey - Animations and UI/UX  
+Charan - UI/UX   
