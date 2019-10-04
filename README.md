@@ -13,8 +13,7 @@ We have created a feature similar to Fing which lists out the IP address and MAC
 We have combined a devices MAC address alongwith a randomly generated value in backend to create a unique ID.
 
 # Team
-Sarvad - IOS  
-Uddhav - Backend  
-Diptanshu - ML  
-Amey - Animations and UI/UX  
-Charan - UI/UX  
+iOS - https://github.com/s4rv4d   
+Backend - https://github.com/UddhavNavneeth
+ML - https://github.com/policeb00th
+
