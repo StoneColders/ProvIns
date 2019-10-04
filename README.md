@@ -14,6 +14,6 @@ We have combined a devices MAC address alongwith a randomly generated value in b
 
 # Team
 iOS - https://github.com/s4rv4d   
-Backend - https://github.com/UddhavNavneeth
+Backend - https://github.com/UddhavNavneeth  
 ML - https://github.com/policeb00th
 
